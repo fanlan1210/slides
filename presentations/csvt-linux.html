@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>CSVT - Linux</title>
+
+		<link rel="stylesheet" href="../dist/reveal.css">
+		<link rel="stylesheet" href="../dist/theme/white.css" id="theme">
+
+        <link rel="stylesheet" href="../plugin/highlight/monokai.css">
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<div class="slides">
+              
+                <section data-markdown="csvt-linux.md" data-separator="^\n---\n$" data-separator-vertical="^\n--\n$" />
+
+            </div>
+		</div>
+
+		<script src="../dist/reveal.js"></script>
+        <script src="../plugin/markdown/markdown.js"></script>
+        <script src="../plugin/highlight/highlight.js"></script>
+        <script src="../plugin/notes/notes.js"></script>
+
+		<script>
+
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+
+		</script>
+        <style>
+            .reveal h1,
+            .reveal h2,
+            .reveal h3,
+            .reveal h4,
+            .reveal h5,
+            .reveal h6 {
+              text-transform: none;
+            }
+            /** {
+                text-align: left;
+            }*/
+        </style>
+	</body>
+</html>
