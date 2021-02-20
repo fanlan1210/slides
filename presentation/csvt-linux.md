@@ -51,6 +51,10 @@
 * Linux
 * MacOS
 
+<br>
+<img height="100" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg">
+<h6>Photo credit: lewing@isc.tamu.edu Larry Ewing and The GIMP</h6>
+
 ---
 
 ### Linux (Kernel)
@@ -67,6 +71,11 @@
   * Redhat
   * Arch
   * Android
+
+<br>
+<img height="100" src="https://www.debian.org/logos/openlogo.svg">
+<img height="100" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg">
+<img height="100" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg">
 
 --
 
@@ -173,7 +182,7 @@ cat <檔案名稱>
 
 ---
 
-<section data-background-color="rgb(200,128,128)" data-background-transition="none">
+<section data-background-image="https://media.giphy.com/media/XUFPGrX5Zis6Y/giphy.gif" data-background-transition="none">
   <h2>毀滅性法術</h2>
   <h4>具有風險的指令們</h4>
   <p>請小心使用!</p>
@@ -241,6 +250,8 @@ ssh 使用者名稱@IP
 ```
 
 * 透過 Putty
+
+![](https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png)
 
 --
 
